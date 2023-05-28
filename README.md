@@ -49,7 +49,7 @@
 <summary><h2>GitHub Stats🐺</h2></summary>
   
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=p1xel07&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1xel07)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1xel07&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1xel07&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
