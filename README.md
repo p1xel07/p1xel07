@@ -1,8 +1,8 @@
 <br>
-<h1 style="aling:center;">⚡Gabriel Acosta</h1>
+<h1 style="aling:center;">⚡Gabriel "p1xel" Acosta</h1>
 
 <!--Typing SVG credit to DenverCoder1-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47566F&center=true&vCenter=true&width=435&lines=Apps+and+Indie+Games+Developer.+.+.;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=47566F&center=true&vCenter=true&width=435&lines=Welcome!;Focused+to+Learn+More.+.+." alt="Typing SVG" /></a>
 
 <div>
 <h1>Facts About Me 🐺:</h1><br>
