@@ -14,15 +14,17 @@
 <br>
 
 <h2 align="center">🌐 Socials:</h2>
-  
+
 [![Instagram](https://img.shields.io/badge/Instagram-506CE9?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabo_0477) 
+[![Twitter](https://img.shields.io/badge/Twitter-506CE9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/p1xel1704)
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-506CE9?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/p1xel)
+<br>
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-506CE9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/-p1xel) 
 [![Reddit](https://img.shields.io/badge/Reddit-506CE9?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/-p1xel) 
-[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-506CE9?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/p1xel)
-[![Twitter](https://img.shields.io/badge/Twitter-506CE9?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/p1xel1704)
+[![Dev-To](https://img.shields.io/badge/Dev-506CE9?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/p1xel)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-506CE9?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/p1xel)
-
-
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-3D7DD5.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
