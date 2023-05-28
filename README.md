@@ -44,11 +44,20 @@
 [<img align="center" alt="Debian" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"/>]
 </div>
 <br>  
-  
+
+<!--Soon-->
+<!--<details open> 
+  <summary><h2>My projects</h2></summary>
+</details>
+  <details open> 
+  <summary><h2>Contributions</h2></summary>
+-->
+ 
 <details open> 
-<summary><h2>GitHub Stats🐺</h2></summary>
+<summary><h2>📈GitHub Stats🐺</h2></summary>
   
-<!--[![GitHub Streak](https://streak-stats.demolab.com?user=p1xel07&theme=transparent&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)-->
+<h2>🔥Github profile stats</h2>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1xel07&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1xel07&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
