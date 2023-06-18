@@ -72,14 +72,6 @@
 </details>
 
 <details open>
-  <summary><h2>🐦 Latest Tweet<h2></summary>
-  <br>
-    
-  [![](https://gtce.itsvg.in/api?username=p1xel1704&hide_border=true&theme=tokyonight)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-</details>
-  
-
-<details open>
   <summary><h2>🏆 GitHub Trophies<h2></summary>
   <br>
     
