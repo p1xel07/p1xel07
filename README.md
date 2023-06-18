@@ -64,10 +64,10 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p1xel07&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)-->
 <h2>Streak🔥</h2>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=p1xel07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=p1xel07&theme=jolly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <h2>Stats📊</h2>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1xel07&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p1xel07&theme=jolly&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
 </details>
 
