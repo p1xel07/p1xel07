@@ -71,20 +71,5 @@
   
 </details>
 
-<details open>
-  <summary><h2>🏆 GitHub Trophies<h2></summary>
-  <br>
-    
-  ![](https://github-profile-trophy.vercel.app/?username=p1xel07&theme=tokyonight&no-frame=true&hide_border=true&no-bg=true&margin-w=4)
-</details>
-  
-<details open>
-  <summary><h2>✍️ Random Dev Quote<h2></summary>
-  <br>
-    
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&hide_border=true&theme=tokyonight&no-bg=true)
-</details>
----
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
